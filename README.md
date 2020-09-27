@@ -92,3 +92,12 @@ We also obtained the following results representing pressure distribution, figur
 11)<p align="center">
     <img alt="Velocity distribution" src="./images/velocityCFD.png" width="400">
 </p>
+
+## Prototype and competiion
+
+The overall aim of the project is to integrate students and make it possible the developement of a project that allies multiple areas of knowledge, some studied in graduation courses, some not, also the team work, also well needed during the production stages of the project. The final aircraft prototype is presented in the following image alongside our team during the 2017 SAE Aerodesign Competition in São José dos Campos, SP, Brasil.
+
+<p align="center">
+    <img alt="Aerodesign UTFPR team" src="./images/aeroUTFPRteam.png" width="600">
+</p>
+
