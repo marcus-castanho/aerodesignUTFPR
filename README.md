@@ -101,3 +101,5 @@ The overall aim of the project is to integrate students and make it possible the
     <img alt="Aerodesign UTFPR team" src="./images/aeroUTFPRteam.png" width="600">
 </p>
 
+Other members involved in the project: Nicole Cremasco, André Siben, Alexandre Feliciano, Mauro Maraia, Rodrigo Batiuk, João Sampaio, Eduardo Franco, Gabriel Espinola, Davi Gobbi, Igor Tardetti, Vinícius Campra, Beatriz Alves, Andressa Stalchmidt, Rodrigo Boccia, Giovani Vanini, Adriana Xavier, Pedro Ballardin. 
+
