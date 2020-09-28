@@ -39,7 +39,7 @@ There are some known airfoils designed for differente applications. One of the a
 
 ## Wing geometry design
 
-The wing geometry is mainly defined by its aspect ratio (AR) - the ratio between the length on the direction of the movement (chord) and the span of the wing - the projected area of the wing and the type of geometry, that is, eliptical, trapezoid, constant chord and variations of theese. That said, by revision of literature, we came to understand that the trapezoid wing is the one that provides the most efficient flight and also a moderate difficulty to fabricate. The aspect ratio was specified by a study with the project of performance, which studies the pull traction of the engine and propellers. The maximum take off weight (MTOW) is related to the ambient conditions, which was estimated taking into account the city where the competitio takes place, the coefficients obtained from the airfoil selected and the area of the wing, so, we iterated different AR's to obtain the greater maximum take off weight and also a geometry that could provide the area of wing needed. The diistribution of differente AR's and MTOW is represented by the following image 4 and the final configuration of the wing is shown in image 5.
+The wing geometry is mainly defined by its aspect ratio (AR) - the ratio between the length on the direction of the movement (chord) and the span of the wing - the projected area of the wing and the type of geometry, that is, eliptical, trapezoid, constant chord and variations of theese. That said, by revision of literature, we came to understand that the trapezoid wing is the one that provides the most efficient flight and also a moderate difficulty to fabricate. The aspect ratio was specified by a study with the project of performance, which studies the pull traction of the engine and propellers. The maximum take off weight (MTOW) is related to the environment conditions, which was estimated taking into account the city where the competitio takes place, the coefficients obtained from the airfoil selected and the area of the wing, so, we iterated different AR's to obtain the greater maximum take off weight and also a geometry that could provide the area of wing needed. The diistribution of differente AR's and MTOW is represented by the following image 4 and the final configuration of the wing is shown in image 5.
 
 
 4)<p align="center">
@@ -70,7 +70,7 @@ The mesh was produced using a structured grids with regular connectivity and qua
     <img alt="Mesh" src="./images/mesh.png" width="400">
 </p>
 
-It was taken into account the same ambient conditios as in  XFLR5 , using a temperature of 20º C and a velocity of 17 m/s. We obtained the following results, in comparison with the previous simulation: lift coefficient, figure 8; drag coefficient, figure 9.
+It was taken into account the same environment conditios as in  XFLR5 , using a temperature of 20º C and a velocity of 17 m/s. We obtained the following results, in comparison with the previous simulation: lift coefficient, figure 8; drag coefficient, figure 9.
 
 8)<p align="center">
     <img alt="Lift coefficient" src="./images/liftAlfaCFD.png" width="400">
